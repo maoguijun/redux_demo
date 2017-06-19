@@ -1,0 +1,28 @@
+{
+  "name": "redux_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js --env=dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maoguijun/redux_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maoguijun/redux_demo/issues"
+  },
+  "homepage": "https://github.com/maoguijun/redux_demo#readme",
+  "dependencies": {
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.0"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.4.0",
+    "webpack": "^2.6.1"
+  }
+}
